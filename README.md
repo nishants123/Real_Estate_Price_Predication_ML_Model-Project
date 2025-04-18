@@ -7,29 +7,29 @@ This project aims to predict real estate property prices using machine learning.
 
 🛠️ Technologies Used:
 
-Python – for data analysis and scripting
+•  Python – for data analysis and scripting
 
-Pandas & NumPy – for data manipulation
+•  Pandas & NumPy – for data manipulation
 
-Matplotlib & Seaborn – for data visualization
+•  Matplotlib & Seaborn – for data visualization
 
-Scikit-learn – for machine learning models and evaluation
+•  Scikit-learn – for machine learning models and evaluation
 
-Machine Learning – for regression modeling and prediction
+•  Machine Learning – for regression modeling and prediction
 
-Jupyter Notebook – for interactive development and analysis
+•  Jupyter Notebook – for interactive development and analysis
 
 📝 Project Report:
 
-A detailed project report has been prepared using Microsoft PowerPoint, including:
+•  A detailed project report has been prepared using Microsoft PowerPoint, including:
 
-Problem statement & objectives
+•  Problem statement & objectives
 
-Data analysis and insights
+•  Data analysis and insights
 
-Model comparison & evaluation
+•  Model comparison & evaluation
 
-Challenges and future scope
+•  Challenges and future scope
 
 
 
